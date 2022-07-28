@@ -2,9 +2,7 @@
     from {background-color: rgb(255, 0, 0);}
     to {background-color: rgb(255, 187, 0);}
   }
-div {
-    width: 100px;
-    height: 100px;
+.Anione {
     position: relative;
     animation-name: example;
     animation-duration: 4s;
