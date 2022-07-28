@@ -1,7 +1,8 @@
 @keyframes example {
     from {color: rgb(255, 0, 0);}
     to {color: rgb(255, 187, 0);}
-  }
+    to {color: rgb(255, 0, 0);}  
+}
 .Anione {
     position: relative;
     animation-name: example;
